@@ -13,7 +13,10 @@ This is a simple implementation of the classic Ping Pong (or Pong) game using Py
 - Victory message when a player reaches a score of 5 points.
 
 
-Install the required Python packages using pip.
-    ```bash
+## Installation
+
+You can install the required `pygame` package using pip:
+
+```bash
 pip install pygame
- ```
+
