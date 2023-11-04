@@ -11,3 +11,9 @@ This is a simple implementation of the classic Ping Pong (or Pong) game using Py
 - Basic AI control for the right paddle.
 - Score tracking.
 - Victory message when a player reaches a score of 5 points.
+
+
+Install the required Python packages using pip.
+    ```bash
+pip install pygame
+ ```
